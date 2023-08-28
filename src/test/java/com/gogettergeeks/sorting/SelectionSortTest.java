@@ -1,4 +1,4 @@
-package com.learning.sorting;
+package com.gogettergeeks.sorting;
 
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.MethodSource;

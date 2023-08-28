@@ -1,4 +1,4 @@
-package com.learning.sorting;
+package com.gogettergeeks.sorting;
 
 import com.google.common.collect.ImmutableList;
 import org.junit.jupiter.api.Named;
